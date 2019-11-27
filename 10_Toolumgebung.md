@@ -71,14 +71,14 @@ Um eine neue VM einzurichten brauchen wir einen leeren Ordner.
 
 Danach:
 
-   $ cd Pfad/zu/meiner/Vagrant-VM      #Zum Verzeichnis der VM wechseln
-   $ vagrant ssh                       #SSH-Verbindung zur VM aufbauen
+    $ cd Pfad/zu/meiner/Vagrant-VM      #Zum Verzeichnis der VM wechseln
+    $ vagrant ssh                       #SSH-Verbindung zur VM aufbauen
 
   Anschliessend können ganz normale Bash-Befehle abgesetzt werden:
 
-   $ ls -l /bin  #Bin-Verzeichnis anzeigen
-   $ df -h       #Freier Festplattenspeicher
-   $ free -m     #Freier Arbeitsspeicher
+    $ ls -l /bin  #Bin-Verzeichnis anzeigen
+    $ df -h       #Freier Festplattenspeicher
+    $ free -m     #Freier Arbeitsspeicher
 
 Um eine VM zu löschen geben wir den Befehl "$ vagrant destroy -f" ein.
 
