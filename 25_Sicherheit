@@ -11,5 +11,5 @@ Eine Firewall ist ein Sicherungssystem, welches ein Rechnernetz oder einen einze
     [Installation]
 ***sudo ufw status // sudo ufw enable // sudo ufw disable***
     [Start/Stop]
-
+ 
 
