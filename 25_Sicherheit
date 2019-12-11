@@ -5,5 +5,11 @@
 
 Eine Firewall ist ein Sicherungssystem, welches ein Rechnernetz oder einen einzelnen Computer vor unerwünschten Netzwerkzugriffen schützt und weiter gefasst auch ein Teilaspekt eines Sicherheitskonzepts ist.
 
-    ***netstat -tulpen*** [Ausgabe der offenen Ports]
+***netstat -tulpen*** 
+    [Ausgabe der offenen Ports]
+***sudo apt-get install ufw***
+    [Installation]
+***sudo ufw status // sudo ufw enable // sudo ufw disable***
+    [Start/Stop]
+
 
