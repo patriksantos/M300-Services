@@ -1,0 +1,9 @@
+**M300 - 25_Sicherheit**
+==========================
+
+### Firewall
+
+Eine Firewall ist ein Sicherungssystem, welches ein Rechnernetz oder einen einzelnen Computer vor unerwünschten Netzwerkzugriffen schützt und weiter gefasst auch ein Teilaspekt eines Sicherheitskonzepts ist.
+
+    ***netstat -tulpen*** [Ausgabe der offenen Ports]
+
